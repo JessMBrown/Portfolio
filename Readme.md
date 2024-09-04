@@ -60,7 +60,8 @@ My Happy docs project recieved 🩷**Best in Class**🩷 an achievement I am ver
 <a name="Database Setup"></a>
 ### Database Setup:
 
-<img src="pictures/setup.webp" alt="setup GIF" align="left" width="300" height="250" style="margin-right: 10px;">
+<img src="pictures/setup.webp" alt="setup GIF" align="left" width="300" height="250" style="margin-right: 20px;">
+
 - Create the database first
 - Use the database
 - Create each table in the order they are setup in the create_tables.sql
