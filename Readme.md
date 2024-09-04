@@ -69,8 +69,7 @@ My Happy docs project recieved 🩷**Best in Class**🩷 an achievement I am ver
 If run after the insert into file it does duplicate data so please keep this in mind.
 - In advanced features you will find functions, procedures, triggers, scheduler, view and finally a group by to get information from multiple tables in one search.
 
-
-
+<br>
 
 ---
 <a name="Final_words"></a>
