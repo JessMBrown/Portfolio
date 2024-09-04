@@ -4,7 +4,7 @@
 ## Your 5* treatment destination for all ailments no questions asked.
 
 
-<a href="#introduction">Introduction</a> | <a href="#main-features">Main Features</a> | <a href="#clone-the-repository">Clone the Repository</a> | <a href="#database-setup">Database Setup</a> | <a href="#Final_Words">Final_words</a> | <a href="#Created_by">Created_by</a> | 
+<a href="#introduction">Introduction</a> | <a href="#main-features">Main Features</a> | <a href="#clone-the-repository">Clone the Repository</a> | <a href="#database-setup">Database Setup</a> | <a href="#Final_Words">Final words</a> | <a href="#Created_by">Created by</a> | 
 <a href="#license">License</a>  
 
 ## Introduction
@@ -70,8 +70,10 @@ If run after the insert into file it does duplicate data so please keep this in 
 - In advanced features you will find functions, procedures, triggers, scheduler, view and finally a group by to get information from multiple tables in one search.
 
 
+
+
 ---
-<a name="Final words"></a>
+<a name="Final_words"></a>
 ### Final words:
 
 I thoroughly enjoyed this project and am happy with what I have achieved as a first time introduction into tech and into SQL.
@@ -81,7 +83,7 @@ I hope in the future to combine this project with future projects to showcase my
 
 
 ---
-<a name="Created by"></a>
+<a name="Created_by"></a>
 ### Created by:
 
 This project was created by Jessica Brown
