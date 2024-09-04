@@ -77,8 +77,8 @@ If run after the insert into file it does duplicate data so please keep this in 
 <a name="Final_words"></a>
 ### Final words:
 
-I thoroughly enjoyed this project and am happy with what I have achieved as a first time introduction into tech and into SQL.
 <img src="pictures/giphy.webp" alt="giphy GIF" align="right" width="300" height="150" style="margin-left: 20px;">
+I thoroughly enjoyed this project and am happy with what I have achieved as a first time introduction into tech and into SQL.
 
 I hope in the future to combine this project with future projects to showcase my skills across multiple coding languages and broaden my knowledge further to use the work I have put into this database to support a larger project once my tech experience has developed further.
 
