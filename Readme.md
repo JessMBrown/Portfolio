@@ -70,6 +70,7 @@ If run after the insert into file it does duplicate data so please keep this in 
 - In advanced features you will find functions, procedures, triggers, scheduler, view and finally a group by to get information from multiple tables in one search.
 
 <br>
+<p>
 
 ---
 <a name="Final_words"></a>
