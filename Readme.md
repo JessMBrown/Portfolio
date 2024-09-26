@@ -54,7 +54,7 @@ Feel free to clone this project and see how I set it all up, this was my very fi
 To achieve this I took part in the 
 🩷**Code First Girls**🩷 SQL kickstarter course, its free to sign up for and the mountain of experience I gained it was well worth the wait for a space on this amazing free course!
 
-My Happy docs project recieved 🩷**Best in Class**🩷 an achievement I am very proud of especially as this is my very first exsposure to tech.
+My Happy docs project recieved 🩷**Best in Class**🩷 an achievement I am very proud of especially as this is my very first exposure to tech.
 
 ---
 <a name="Database Setup"></a>
